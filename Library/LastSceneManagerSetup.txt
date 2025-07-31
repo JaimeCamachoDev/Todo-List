@@ -1,0 +1,13 @@
+sceneSetups:
+- path: Assets/Scenes/ShoppingList.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
+- path: Assets/Scenes/SocialEventList.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Scenes/AssignmentList.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
